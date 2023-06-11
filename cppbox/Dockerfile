@@ -6,4 +6,6 @@ RUN apt-get install -y \
     build-essential \
     cmake \
     libgtest-dev \
-    python3
+    libbenchmark-dev \
+    python3 \
+    git
