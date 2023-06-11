@@ -7,5 +7,6 @@ RUN apt-get install -y \
     cmake \
     libgtest-dev \
     libbenchmark-dev \
+    libboost-all-dev \
     python3 \
     git
